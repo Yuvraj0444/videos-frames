@@ -15,4 +15,7 @@ while(cap.isOpened()):
 cap.release()
 cv2.destroyAllWindows()
 
+#video
+C:\Users\asus\Desktop\venice.mp4
+
 
